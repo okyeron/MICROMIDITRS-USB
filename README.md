@@ -1,7 +1,18 @@
 # MICROMIDITRS-USB
  
 
-A DIY USBMIDI to TRS MIDI adapter.
+A DIY USBMIDI to TRS MIDI adapter for Adafruit QTPy.
+
+The SAMD21 QTPy variant is recommended. Code for other variants will be released here over time.
+
+### Features
+
+* Auto sensing TRS MIDI Type-A/Type-B input with [LPZW](http://leipzigwest.org/) Auto Crossover circuit
+* Switch for TRS MIDI Type-A/Type-B output
+* Activity LEDs for input/output
+* USB-C connector on QTPy
+
+![<#MMTRS-USB.jpeg#>](<MMTRS-USB.jpeg>)
 
 ### Firmware
 
